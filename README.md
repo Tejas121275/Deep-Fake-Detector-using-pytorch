@@ -1,2 +1,2 @@
 # Deep-Fake-Detector-using-pytorch
-General detect ai generate images
+Generally detect ai generate images
