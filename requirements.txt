@@ -1,0 +1,8 @@
+torch==2.0.1
+torchvision==0.15.2
+pillow==10.3.0
+flask==3.0.3
+timm==0.9.16
+facenet-pytorch==2.5.3
+scikit-learn==1.4.2
+numpy==1.26.4
